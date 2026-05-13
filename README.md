@@ -6,7 +6,7 @@ I build systems end-to-end, from the model layer to the infrastructure it runs o
 
 Based in Tunisia. TOEIC 990/990.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-edamhamza.dev-c8a86e?style=flat)](edamhamza.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-edamhamza.dev-c8a86e?style=flat)](https://edamhamza.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edam-hamza-a2567a273/)
 
 ---
